@@ -155,6 +155,12 @@ static=📺 Netflix, proxy, direct, img-url= https://raw.githubusercontent.com/K
 static=🌏 国外网站, proxy,direct,🇭🇰️ 香港(正则示范), img-url= https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Global.png
 static=🕹 终极清单,direct, proxy, img-url= https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Final.png
 static= 🇭🇰️ 香港(正则示范), server-tag-regex= 香港|🇭🇰️|HK|Hong, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/HK.png
+static= Hong Kong, server-tag-regex=香港|Hong Kong|HK|hk, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Hong_Kong.png
+static= Singapore, server-tag-regex=新加坡|Singapore|SG|sg, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Singapore.png
+static= Taiwan, server-tag-regex=台湾|Taiwan|TW|tw|台北, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Taiwan.png
+static= United States, server-tag-regex=美国|United States|US|us, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/United_States.png
+static= Japan, server-tag-regex=日本|Japan|JP|jp, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Japan.png
+static= Korea, server-tag-regex=韩国|Korea|KR|kr, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Korea.png
 
 #server-tag-regex 以及 resource-tag-regex 参数用于正则筛选来建立策略组
 #具体可参见教程部分: https://shrtm.nu/DAFP
