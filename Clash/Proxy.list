@@ -15,10 +15,12 @@ DOMAIN-SUFFIX,fsm.name
 DOMAIN-SUFFIX,list.k98.org
 
 # 老板
-fanart.tv
-themoviedb.org
-api.themoviedb.org
-emby.media
-githubusercontent.com
-dune-club.info
+DOMAIN-SUFFIX,fanart.tv
+DOMAIN-SUFFIX,themoviedb.org
+DOMAIN,api.themoviedb.org
+DOMAIN-SUFFIX,api.themoviedb.org
+DOMAIN-SUFFIX,emby.media
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,dune-club.info
+DOMAIN,dune-club.info
 
