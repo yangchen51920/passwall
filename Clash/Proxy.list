@@ -14,6 +14,7 @@ DOMAIN-SUFFIX,9wan.win
 DOMAIN-SUFFIX,fsm.name
 DOMAIN-SUFFIX,list.k98.org
 DOMAIN-SUFFIX,tsutsu.one
+DOMAIN-SUFFIX,hdhive.com
 
 # 老板
 DOMAIN-SUFFIX,fanart.tv
@@ -25,3 +26,4 @@ DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,dune-club.info
 DOMAIN,dune-club.info
 DOMAIN,webservice.fanart.tv
+
